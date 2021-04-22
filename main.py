@@ -1,0 +1,8 @@
+name = input("Enter first and last name")
+phone = input('phone')
+email = input('email')
+downPayment = input('DownPayment')
+print('FName:', name)
+print('Phone: ', phone)
+print('Email: ', email)
+print('Down payment: ', downPayment)
